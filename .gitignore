@@ -5,4 +5,5 @@ __pycache__/
 .ipynb_checkpoints/
 .streamlit/secrets.toml
 *.csv
+!bengaluru_house_prices.csv
 *.zip
