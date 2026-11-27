@@ -19,3 +19,5 @@ The app includes dataset filters, exploratory plots, neighborhood comparison, a 
 - `app.py`: application
 - `requirements.txt`: dependencies
 - `bengaluru_house_prices.csv`: original dataset (included in this package)
+# house-price-valuation
+House Price Valuation and Market Explorer using Machine Learning
