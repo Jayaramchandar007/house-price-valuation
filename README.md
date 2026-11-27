@@ -21,3 +21,6 @@ The app includes dataset filters, exploratory plots, neighborhood comparison, a 
 - `bengaluru_house_prices.csv`: original dataset (included in this package)
 # house-price-valuation
 House Price Valuation and Market Explorer using Machine Learning
+
+## Team Contributions
+- Team Member 2: Collaborating through Github branches  
